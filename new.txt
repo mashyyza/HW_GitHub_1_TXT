@@ -1,0 +1,4 @@
+1)name: Mariia Shpak
+2)age: 31
+3)animal: cat
+4)salary: 1000
