@@ -1,1 +1,12 @@
+id: 1
 
+Summary: pages when switching to the Ukrainian language is not localized
+
+Precondition: 1. Open www.medecine.com;
+              2. the user is registered and authorized.
+              
+Steps: 1. In the upper right corner switch the language from Rus to Ukr.
+
+Actualresult: All information on the site is not displayed in Ukrainian.
+
+Expected: All information on the site is displayed in Ukrainia.
