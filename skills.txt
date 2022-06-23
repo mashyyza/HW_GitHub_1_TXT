@@ -1,0 +1,4 @@
+1) nummberOfProgram: 5;
+2) nameProgram: Postman, GitBush, Jmeter, Jira, Swagger;
+3) testDocumentation: TestPlane, СheckList, TestCase;
+4) WebBasics: HTML, CSS.
